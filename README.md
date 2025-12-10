@@ -1,7 +1,5 @@
-# DSW1_T2_ESCALANTE_DELGADO_LUCAS_ALONSO_API
-Examen T2 - Desarrollo de Servicios Web I. API RESTful con Arquitectura Hexagonal (.NET 8) y MySQL.
-
 # Examen T2 - Desarrollo de Servicios Web I
+Examen T2 - Desarrollo de Servicios Web I. API RESTful con Arquitectura Hexagonal (.NET 8) y MySQL.
 
 **Alumno:** Lucas Alonso Escalante Delgado
 **Curso:** Desarrollo de Servicios Web I
@@ -45,9 +43,11 @@ El sistema requiere una base de datos MySQL llamada `library_db`.
   "DefaultConnection": "Server=localhost;Database=library_db;User=root;Password=SU_CONTRASEÑA;"
 }
 
-### 3. Ejecutar la API
-Asegúrese de que el proyecto Library.API esté establecido como proyecto de inicio (en negrita).
+3. Ejecutar la API
+Asegúrese de que el proyecto Library.API esté establecido como proyecto de inicio (clic derecho > Set as Startup Project).
 
 Presione ▶️ Ejecutar (o F5) en Visual Studio.
 
-Se abrirá Swagger UI en el puerto configurado (ej. https://localhost:7065/swagger).
+Se abrirá automáticamente Swagger UI en su navegador (puerto 7065).
+
+URL Local: https://localhost:7065/swagger
