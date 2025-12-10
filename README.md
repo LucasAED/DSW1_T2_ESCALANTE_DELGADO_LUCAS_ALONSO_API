@@ -41,7 +41,7 @@ El sistema requiere una base de datos MySQL llamada `library_db`.
 ```json
 "ConnectionStrings": {
   "DefaultConnection": "Server=localhost;Database=library_db;User=root;Password=SU_CONTRASEÑA;"
-}
+}```
 
 ### 3. Ejecutar la API
 Asegúrese de que el proyecto Library.API esté establecido como proyecto de inicio (clic derecho > Set as Startup Project).
